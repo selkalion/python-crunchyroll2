@@ -37,7 +37,7 @@ class ANDROID_MANGA(API):
     XOR_MASK                    = 0x42
 
 class ANDROID(API):
-    ACCESS_TOKEN                = 'Scwg9PRRZ19iVwD'
+    ACCESS_TOKEN                = 'WveH9VkPLrXvuNm'
     API_DOMAIN                  = 'api.' + API.BASE_DOMAIN
     API_URL                     = '{protocol}://' + API_DOMAIN + '/' \
                                     '{api_method}.{version}.json'
